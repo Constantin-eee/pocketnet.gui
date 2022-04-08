@@ -1132,7 +1132,7 @@ ____loclib.subscribers3 = 'подписчиков';
 ____loclib.buyforcrypto = 'Купить за криптовалюту'
 ____loclib.buywithcreditcard = 'Купить с карты'
 ____loclib.buylogo = 'Купить Pocketcoin (PKOIN)'
-____loclib.buypeertopeer = 'Купить Peer-to-Peer'
+____loclib.buypeertopeer = 'Купить «из Рук в Руки»'
 
 
 ____loclib.aboutServices = 'БЕЗ ЦЕНЗУРЫ';
@@ -1160,10 +1160,10 @@ ____loclib.aboutServices16 = 'делиться своими постами и в
 ____loclib.aboutServices17 = ', Загружайте их безопасно, импортируйте их с YouTube (свяжитесь с нами, чтобы мы могли помочь!), убедитесь, что они видны всем. Навсегда. Никто не сможет удалить или запретить их.';
 
 
-____loclib.aboutServices18 = 'Open Source';
+____loclib.aboutServices18 = 'Открытый исходный код';
 ____loclib.aboutServices19 = 'Мы верим, что';
 ____loclib.aboutServices20 = 'конфиденциальность и безопасность';
-____loclib.aboutServices21 = 'должны проходить через Open Source проекты. Весь проект доступен на GitHub, чтобы вы могли убедиться, что в нем нет бэкдоров, и что Bastyon не хранит никаких личных данных.';
+____loclib.aboutServices21 = 'должны проходить через проекты с открытый исходным кодом. Весь проект доступен на GitHub, чтобы вы могли убедиться, что в нем нет бэкдоров, и что Bastyon не хранит никаких личных данных.';
 
 
 ____loclib.aboutNewBlock = 'Как зарабатывать с Bastyon';
